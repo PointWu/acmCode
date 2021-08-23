@@ -11,6 +11,8 @@
 #    print('p[::-1]',p[::-1])
 #    print('----------------------')
 
+#  赛码
+#  题目地址：https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3013&konwledgeId=134 
 
 s = input()
 for i in range(len(s)):
